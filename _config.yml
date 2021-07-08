@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: 'ddshuai'
-description: 'ddshuai'
-keywords: 'ddshuai'
-author: John Doe
-language: en
+title: 帅冬冬的个人博客
+subtitle: '不要着急，最好的总会在不经意间出现'
+description: '会飞的鱼'
+keywords: '会飞的鱼 ddshuai 帅冬冬'
+author: 帅冬冬
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://shuaidd.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
