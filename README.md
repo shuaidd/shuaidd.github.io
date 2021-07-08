@@ -1,1 +1,9 @@
-# shuaidd.github.io
+
+### hexo 使用
+
+``` 
+hexo server
+
+hexo generate
+
+```
