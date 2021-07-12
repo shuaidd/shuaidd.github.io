@@ -4,6 +4,8 @@ date: 2021-07-12 16:46:57
 tags:
    - jdk8
 ---
+
+### 函数接口
 ```java
 package com.travel.jdk8.function;
 
