@@ -10,8 +10,8 @@ tags:
 ```xml
 <dependency>
     <groupId>com.github.shuaidd</groupId>
-    <artifactId>qywx-spring-boot-api</artifactId>
-    <version>2.1.0</version>
+    <artifactId>qywx-spring-boot-starter</artifactId>
+    <version>3.0.0</version>
 </dependency>
 ```
 [源码地址](https://github.com/shuaidd/qywx)
